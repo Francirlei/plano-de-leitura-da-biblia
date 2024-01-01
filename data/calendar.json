@@ -1,0 +1,4089 @@
+[
+  {
+    "id": 1,
+    "month": "Janeiro",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Gênesis 1",
+          "Mateus 1"
+        ],
+        "personalReading": [
+          "Esdras 1",
+          "Atos 1"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Gênesis 2",
+          "Mateus 2"
+        ],
+        "personalReading": [
+          "Esdras 2",
+          "Atos 2"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Gênesis 3",
+          "Mateus 3"
+        ],
+        "personalReading": [
+          "Esdras 3",
+          "Atos 3"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Gênesis 4",
+          "Mateus 4"
+        ],
+        "personalReading": [
+          "Esdras 4",
+          "Atos 4"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Gênesis 5",
+          "Mateus 5"
+        ],
+        "personalReading": [
+          "Esdras 5",
+          "Atos 5"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Gênesis 6",
+          "Mateus 6"
+        ],
+        "personalReading": [
+          "Esdras 6",
+          "Atos 6"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Gênesis 7",
+          "Mateus 7"
+        ],
+        "personalReading": [
+          "Esdras 7",
+          "Atos 7"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Gênesis 8",
+          "Mateus 8"
+        ],
+        "personalReading": [
+          "Esdras 8",
+          "Atos 8"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Gênesis 9-10",
+          "Mateus 9"
+        ],
+        "personalReading": [
+          "Esdras 9",
+          "Atos 9"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Gênesis 11",
+          "Mateus 10"
+        ],
+        "personalReading": [
+          "Esdras 10",
+          "Atos 10"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "Gênesis 12",
+          "Mateus 11"
+        ],
+        "personalReading": [
+          "Neemias 1",
+          "Atos 11"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "Gênesis 13",
+          "Mateus 12"
+        ],
+        "personalReading": [
+          "Neemias 2",
+          "Atos 12"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "Gênesis 14",
+          "Mateus 13"
+        ],
+        "personalReading": [
+          "Neemias 2",
+          "Atos 13"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "Gênesis 15",
+          "Mateus 14"
+        ],
+        "personalReading": [
+          "Neemias 4",
+          "Atos 14"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "Gênesis 16",
+          "Mateus 15"
+        ],
+        "personalReading": [
+          "Neemias 5",
+          "Atos 15"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "Gênesis 17",
+          "Mateus 16"
+        ],
+        "personalReading": [
+          "Neemias 6",
+          "Atos 16"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "Gênesis 18",
+          "Mateus 17"
+        ],
+        "personalReading": [
+          "Neemias 7",
+          "Atos 17"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "Gênesis 19",
+          "Mateus 18"
+        ],
+        "personalReading": [
+          "Neemias 8",
+          "Atos 18"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "Gênesis 20",
+          "Mateus 19"
+        ],
+        "personalReading": [
+          "Neemias 9",
+          "Atos 19"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "Gênesis 21",
+          "Mateus 20"
+        ],
+        "personalReading": [
+          "Neemias 10",
+          "Atos 20"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "Gênesis 22",
+          "Mateus 21"
+        ],
+        "personalReading": [
+          "Neemias 11",
+          "Atos 21"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "Gênesis 23",
+          "Mateus 22"
+        ],
+        "personalReading": [
+          "Neemias 12",
+          "Atos 22"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "Gênesis 24",
+          "Mateus 23"
+        ],
+        "personalReading": [
+          "Neemias 13",
+          "Atos 23"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "Gênesis 25",
+          "Mateus 24"
+        ],
+        "personalReading": [
+          "Ester 1",
+          "Atos 24"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "Gênesis 26",
+          "Mateus 25"
+        ],
+        "personalReading": [
+          "Ester 2",
+          "Atos 25"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "Gênesis 27",
+          "Mateus 26"
+        ],
+        "personalReading": [
+          "Ester 3",
+          "Atos 26"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "Gênesis 28",
+          "Mateus 27"
+        ],
+        "personalReading": [
+          "Ester 4",
+          "Atos 27"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "Gênesis 29",
+          "Mateus 28"
+        ],
+        "personalReading": [
+          "Ester 5",
+          "Atos 28"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "Gênesis 30",
+          "Marcos 1"
+        ],
+        "personalReading": [
+          "Ester 6",
+          "Romanos 1"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "Gênesis 31",
+          "Marcos 2"
+        ],
+        "personalReading": [
+          "Ester 7",
+          "Romanos 2"
+        ]
+      },
+      {
+        "day": 31,
+        "familyReading": [
+          "Gênesis 32",
+          "Marcos 3"
+        ],
+        "personalReading": [
+          "Ester 8",
+          "Romanos 3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "month": "Fevereiro",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Gênesis 33",
+          "Marcos 4"
+        ],
+        "personalReading": [
+          "Ester 9-10",
+          "Romanos 4"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Gênesis 34",
+          "Marcos 5"
+        ],
+        "personalReading": [
+          "Jó 1",
+          "Romanos 5"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Gênesis 35-36",
+          "Marcos 6"
+        ],
+        "personalReading": [
+          "Jó 2",
+          "Romanos 6"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Gênesis 37",
+          "Marcos 7"
+        ],
+        "personalReading": [
+          "Jó 3",
+          "Romanos 7"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Gênesis 38",
+          "Marcos 8"
+        ],
+        "personalReading": [
+          "Jó 4",
+          "Romanos 8"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Gênesis 39",
+          "Marcos 9"
+        ],
+        "personalReading": [
+          "Jó 5",
+          "Romanos 9"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Gênesis 40",
+          "Marcos 10"
+        ],
+        "personalReading": [
+          "Jó 6",
+          "Romanos 10"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Gênesis 41",
+          "Marcos 11"
+        ],
+        "personalReading": [
+          "Jó 7",
+          "Romanos 11"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Gênesis 42",
+          "Marcos 12"
+        ],
+        "personalReading": [
+          "Jó 8",
+          "Romanos 12"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Gênesis 43",
+          "Marcos 13"
+        ],
+        "personalReading": [
+          "Jó 9",
+          "Romanos 13"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "Gênesis 44",
+          "Marcos 14"
+        ],
+        "personalReading": [
+          "Jó 10",
+          "Romanos 14"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "Gênesis 45",
+          "Marcos 15"
+        ],
+        "personalReading": [
+          "Jó 11",
+          "Romanos 15"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "Gênesis 46",
+          "Marcos 16"
+        ],
+        "personalReading": [
+          "Jó 12",
+          "Romanos 16"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "Gênesis 47",
+          "Lucas 1.1-38"
+        ],
+        "personalReading": [
+          "Jó 13",
+          "1Coríntios 1"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "Gênesis 48",
+          "Lucas 1.1-39-80"
+        ],
+        "personalReading": [
+          "Jó 14",
+          "1Coríntios 2"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "Gênesis 49",
+          "Lucas 2"
+        ],
+        "personalReading": [
+          "Jó 15",
+          "1Coríntios 3"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "Gênesis 50",
+          "Lucas 3"
+        ],
+        "personalReading": [
+          "Jó 16-17",
+          "1Coríntios 4"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "Êxodo 1",
+          "Lucas 4"
+        ],
+        "personalReading": [
+          "Jó 18",
+          "1Coríntios 5"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "Êxodo 2",
+          "Lucas 5"
+        ],
+        "personalReading": [
+          "Jó 19",
+          "1Coríntios 6"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "Êxodo 3",
+          "Lucas 6"
+        ],
+        "personalReading": [
+          "Jó 20",
+          "1Coríntios 7"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "Êxodo 4",
+          "Lucas 7"
+        ],
+        "personalReading": [
+          "Jó 21",
+          "1Coríntios 8"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "Êxodo 5",
+          "Lucas 8"
+        ],
+        "personalReading": [
+          "Jó 22",
+          "1Coríntios 9"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "Êxodo 6",
+          "Lucas 9"
+        ],
+        "personalReading": [
+          "Jó 23",
+          "1Coríntios 10"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "Êxodo 7",
+          "Lucas 10"
+        ],
+        "personalReading": [
+          "Jó 24",
+          "1Coríntios 11"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "Êxodo 8",
+          "Lucas 11"
+        ],
+        "personalReading": [
+          "Jó 25-26",
+          "1Coríntios 12"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "Êxodo 9",
+          "Lucas 12"
+        ],
+        "personalReading": [
+          "Jó 27",
+          "1Coríntios 13"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "Êxodo 10",
+          "Lucas 13"
+        ],
+        "personalReading": [
+          "Jó 28",
+          "1Coríntios 14"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "Êxodo 11.1-12.30",
+          "Lucas 14"
+        ],
+        "personalReading": [
+          "Jó 29",
+          "1Coríntios 15"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "month": "Março",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Êxodo 12.31-51",
+          "Lucas 15"
+        ],
+        "personalReading": [
+          "Jó 30",
+          "1Coríntios 16"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Êxodo 13",
+          "Lucas 16"
+        ],
+        "personalReading": [
+          "Jó 31",
+          "2Coríntios 1"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Êxodo 14",
+          "Lucas 17"
+        ],
+        "personalReading": [
+          "Jó 32",
+          "2Coríntios 2"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Êxodo 15",
+          "Lucas 18"
+        ],
+        "personalReading": [
+          "Jó 33",
+          "2Coríntios 3"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Êxodo 16",
+          "Lucas 19"
+        ],
+        "personalReading": [
+          "Jó 34",
+          "2Coríntios 4"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Êxodo 17",
+          "Lucas 20"
+        ],
+        "personalReading": [
+          "Jó 35",
+          "2Coríntios 5"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Êxodo 18",
+          "Lucas 21"
+        ],
+        "personalReading": [
+          "Jó 36",
+          "2Coríntios 6"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Êxodo 19",
+          "Lucas 22"
+        ],
+        "personalReading": [
+          "Jó 37",
+          "2Coríntios 7"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Êxodo 20",
+          "Lucas 23"
+        ],
+        "personalReading": [
+          "Jó 38",
+          "2Coríntios 8"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Êxodo 21",
+          "Lucas 24"
+        ],
+        "personalReading": [
+          "Jó 39",
+          "2Coríntios 9"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "Êxodo 22",
+          "João 1"
+        ],
+        "personalReading": [
+          "Jó 40",
+          "2Coríntios 10"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "Êxodo 23",
+          "João 2"
+        ],
+        "personalReading": [
+          "Jó 41",
+          "2Coríntios 11"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "Êxodo 24",
+          "João 3"
+        ],
+        "personalReading": [
+          "Jó 42",
+          "2Coríntios 12"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "Êxodo 25",
+          "João 4"
+        ],
+        "personalReading": [
+          "Provérbios 1",
+          "2Coríntios 13"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "Êxodo 26",
+          "João 5"
+        ],
+        "personalReading": [
+          "Provérbios 2",
+          "Gálatas 1"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "Êxodo 27",
+          "João 6"
+        ],
+        "personalReading": [
+          "Provérbios 3",
+          "Gálatas 2"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "Êxodo 28",
+          "João 7"
+        ],
+        "personalReading": [
+          "Provérbios 4",
+          "Gálatas 3"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "Êxodo 29",
+          "João 8"
+        ],
+        "personalReading": [
+          "Provérbios 5",
+          "Gálatas 4"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "Êxodo 30",
+          "João 9"
+        ],
+        "personalReading": [
+          "Provérbios 6",
+          "Gálatas 5"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "Êxodo 31",
+          "João 10"
+        ],
+        "personalReading": [
+          "Provérbios 7",
+          "Gálatas 6"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "Êxodo 32",
+          "João 11"
+        ],
+        "personalReading": [
+          "Provérbios 8",
+          "Efésios 1"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "Êxodo 33",
+          "João 12"
+        ],
+        "personalReading": [
+          "Provérbios 9",
+          "Efésios 2"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "Êxodo 34",
+          "João 13"
+        ],
+        "personalReading": [
+          "Provérbios 10",
+          "Efésios 3"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "Êxodo 35",
+          "João 14"
+        ],
+        "personalReading": [
+          "Provérbios 11",
+          "Efésios 4"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "Êxodo 36",
+          "João 15"
+        ],
+        "personalReading": [
+          "Provérbios 12",
+          "Efésios 5"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "Êxodo 37",
+          "João 16"
+        ],
+        "personalReading": [
+          "Provérbios 13",
+          "Efésios 6"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "Êxodo 38",
+          "João 17"
+        ],
+        "personalReading": [
+          "Provérbios 14",
+          "Filipenses 1"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "Êxodo 39",
+          "João 18"
+        ],
+        "personalReading": [
+          "Provérbios 15",
+          "Filipenses 2"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "Êxodo 40",
+          "João 19"
+        ],
+        "personalReading": [
+          "Provérbios 16",
+          "Filipenses 3"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "Levítico 1",
+          "João 20"
+        ],
+        "personalReading": [
+          "Provérbios 17",
+          "Filipenses 4"
+        ]
+      },
+      {
+        "day": 31,
+        "familyReading": [
+          "Levítico 2-3",
+          "João 21"
+        ],
+        "personalReading": [
+          "Provérbios 18",
+          "Colossenses 1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "month": "Abril",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Levítico 4",
+          "Salmos 1-2"
+        ],
+        "personalReading": [
+          "Provérbios 19",
+          "Colossenses 2"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Levítico 5",
+          "Salmos 3-4"
+        ],
+        "personalReading": [
+          "Provérbios 20",
+          "Colossenses 3"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Levítico 6",
+          "Salmos 5-6"
+        ],
+        "personalReading": [
+          "Provérbios 21",
+          "Colossenses 4"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Levítico 7",
+          "Salmos 7-8"
+        ],
+        "personalReading": [
+          "Provérbios 22",
+          "1Tessalonicenses 1"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Levítico 8",
+          "Salmos 9"
+        ],
+        "personalReading": [
+          "Provérbios 23",
+          "1Tessalonicenses 2"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Levítico 9",
+          "Salmos 10"
+        ],
+        "personalReading": [
+          "Provérbios 24",
+          "1Tessalonicenses 3"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Levítico 10",
+          "Salmos 11-12"
+        ],
+        "personalReading": [
+          "Provérbios 25",
+          "1Tessalonicenses 4"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Levítico 11-12",
+          "Salmos 13-14"
+        ],
+        "personalReading": [
+          "Provérbios 26",
+          "1Tessalonicenses 5"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Levítico 13",
+          "Salmos 15-16"
+        ],
+        "personalReading": [
+          "Provérbios 27",
+          "2Tessalonicenses 1"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Levítico 14",
+          "Salmos 17"
+        ],
+        "personalReading": [
+          "Provérbios 28",
+          "2Tessalonicenses 2"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "Levítico 15",
+          "Salmos 18"
+        ],
+        "personalReading": [
+          "Provérbios 29",
+          "2Tessalonicenses 3"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "Levítico 16",
+          "Salmos 19"
+        ],
+        "personalReading": [
+          "Provérbios 30",
+          "1Timóteo 1"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "Levítico 17",
+          "Salmos 20-21"
+        ],
+        "personalReading": [
+          "Provérbios 31",
+          "1Timóteo 2"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "Levítico 18",
+          "Salmos 22"
+        ],
+        "personalReading": [
+          "Eclesiastes 1",
+          "1Timóteo 3"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "Levítico 19",
+          "Salmos 23-24"
+        ],
+        "personalReading": [
+          "Eclesiastes 2",
+          "1Timóteo 4"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "Levítico 20",
+          "Salmos 25"
+        ],
+        "personalReading": [
+          "Eclesiastes 3",
+          "1Timóteo 5"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "Levítico 21",
+          "Salmos 26-27"
+        ],
+        "personalReading": [
+          "Eclesiastes 4",
+          "1Timóteo 6"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "Levítico 22",
+          "Salmos 28-29"
+        ],
+        "personalReading": [
+          "Eclesiastes 5",
+          "2Timóteo 1"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "Levítico 23",
+          "Salmos 30"
+        ],
+        "personalReading": [
+          "Eclesiastes 6",
+          "2Timóteo 2"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "Levítico 24",
+          "Salmos 31"
+        ],
+        "personalReading": [
+          "Eclesiastes 7",
+          "2Timóteo 3"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "Levítico 25",
+          "Salmos 32"
+        ],
+        "personalReading": [
+          "Eclesiastes 8",
+          "2Timóteo 4"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "Levítico 26",
+          "Salmos 33"
+        ],
+        "personalReading": [
+          "Eclesiastes 9",
+          "Tito 1"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "Levítico 27",
+          "Salmos 34"
+        ],
+        "personalReading": [
+          "Eclesiastes 10",
+          "Tito 2"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "Números 1",
+          "Salmos 35"
+        ],
+        "personalReading": [
+          "Eclesiastes 11",
+          "Tito 3"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "Números 2",
+          "Salmos 36"
+        ],
+        "personalReading": [
+          "Eclesiastes 12",
+          "Filemom"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "Números 3",
+          "Salmos 37"
+        ],
+        "personalReading": [
+          "Cânticos 1",
+          "Hebreus 1"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "Números 4",
+          "Salmos 38"
+        ],
+        "personalReading": [
+          "Cânticos 2",
+          "Hebreus 2"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "Números 5",
+          "Salmos 39"
+        ],
+        "personalReading": [
+          "Cânticos 3",
+          "Hebreus 3"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "Números 6",
+          "Salmos 40-41"
+        ],
+        "personalReading": [
+          "Cânticos 4",
+          "Hebreus 4"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "Números 7",
+          "Salmos 42-43"
+        ],
+        "personalReading": [
+          "Cânticos 5",
+          "Hebreus 5"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "month": "Maio",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Números 8",
+          "Salmos 44"
+        ],
+        "personalReading": [
+          "Cânticos 6",
+          "Hebreus 6"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Números 9",
+          "Salmos 45"
+        ],
+        "personalReading": [
+          "Cânticos 7",
+          "Hebreus 7"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Números 10",
+          "Salmos 46-47"
+        ],
+        "personalReading": [
+          "Cânticos 8",
+          "Hebreus 8"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Números 11",
+          "Salmos 48"
+        ],
+        "personalReading": [
+          "Isaías 1",
+          "Hebreus 9"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Números 12-13",
+          "Salmos 49"
+        ],
+        "personalReading": [
+          "Isaías 2",
+          "Hebreus 10"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Números 14",
+          "Salmos 50"
+        ],
+        "personalReading": [
+          "Isaías 3-4",
+          "Hebreus 11"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Números 15",
+          "Salmos 51"
+        ],
+        "personalReading": [
+          "Isaías 5",
+          "Hebreus 12"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Números 16",
+          "Salmos 52-54"
+        ],
+        "personalReading": [
+          "Isaías 6",
+          "Hebreus 13"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Números 17-18",
+          "Salmos 55"
+        ],
+        "personalReading": [
+          "Isaías 7",
+          "Tiago 1"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Números 19",
+          "Salmos 56-57"
+        ],
+        "personalReading": [
+          "Isaías 8.1-9.7",
+          "Tiago 2"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "Números 20",
+          "Salmos 58-59"
+        ],
+        "personalReading": [
+          "Isaías 9.8-10.4",
+          "Tiago 3"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "Números 21",
+          "Salmos 60-61"
+        ],
+        "personalReading": [
+          "Isaías 10.5-34",
+          "Tiago 4"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "Números 22",
+          "Salmos 62-63"
+        ],
+        "personalReading": [
+          "Isaías 11-12",
+          "Tiago 5"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "Números 23",
+          "Salmos 64-65"
+        ],
+        "personalReading": [
+          "Isaías 13",
+          "1Pedro 1"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "Números 24",
+          "Salmos 66-67"
+        ],
+        "personalReading": [
+          "Isaías 14",
+          "1Pedro 2"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "Números 25",
+          "Salmos 68"
+        ],
+        "personalReading": [
+          "Isaías 15",
+          "1Pedro 3"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "Números 26",
+          "Salmos 69"
+        ],
+        "personalReading": [
+          "Isaías 16",
+          "1Pedro 4"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "Números 27",
+          "Salmos 70-71"
+        ],
+        "personalReading": [
+          "Isaías 17-18",
+          "1Pedro 5"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "Números 28",
+          "Salmos 72"
+        ],
+        "personalReading": [
+          "Isaías 19-20",
+          "2Pedro 1"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "Números 29",
+          "Salmos 73"
+        ],
+        "personalReading": [
+          "Isaías 21",
+          "2Pedro 2"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "Números 30",
+          "Salmos 74"
+        ],
+        "personalReading": [
+          "Isaías 22",
+          "2Pedro 3"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "Números 31",
+          "Salmos 75-76"
+        ],
+        "personalReading": [
+          "Isaías 23",
+          "1João 1"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "Números 32",
+          "Salmos 77"
+        ],
+        "personalReading": [
+          "Isaías 24",
+          "1João 2"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "Números 33",
+          "Salmos 78.1-37"
+        ],
+        "personalReading": [
+          "Isaías 25",
+          "1João 3"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "Números 34",
+          "Salmos 78.38-72"
+        ],
+        "personalReading": [
+          "Isaías 26",
+          "1João 4"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "Números 35",
+          "Salmos 79"
+        ],
+        "personalReading": [
+          "Isaías 27",
+          "1João 5"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "Números 36",
+          "Salmos 80"
+        ],
+        "personalReading": [
+          "Isaías 28",
+          "2João"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "Deuteronômio 1",
+          "Salmos 81-82"
+        ],
+        "personalReading": [
+          "Isaías 29",
+          "3João"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "Deuteronômio 2",
+          "Salmos 83-84"
+        ],
+        "personalReading": [
+          "Isaías 30",
+          "Judas"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "Deuteronômio 3",
+          "Salmos 85"
+        ],
+        "personalReading": [
+          "Isaías 31",
+          "Apocalipse 1"
+        ]
+      },
+      {
+        "day": 31,
+        "familyReading": [
+          "Deuteronômio 4",
+          "Salmos 86-87"
+        ],
+        "personalReading": [
+          "Isaías 32",
+          "Apocalipse 2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "month": "Junho",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Deuteronômio 5",
+          "Salmos 88"
+        ],
+        "personalReading": [
+          "Isaías 33",
+          "Apocalipse 3"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Deuteronômio 6",
+          "Salmos 89"
+        ],
+        "personalReading": [
+          "Isaías 34",
+          "Apocalipse 4"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Deuteronômio 7",
+          "Salmos 90"
+        ],
+        "personalReading": [
+          "Isaías 35",
+          "Apocalipse 5"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Deuteronômio 8",
+          "Salmos 91"
+        ],
+        "personalReading": [
+          "Isaías 36",
+          "Apocalipse 6"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Deuteronômio 9",
+          "Salmos 92-93"
+        ],
+        "personalReading": [
+          "Isaías 37",
+          "Apocalipse 7"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Deuteronômio 10",
+          "Salmos 94"
+        ],
+        "personalReading": [
+          "Isaías 38",
+          "Apocalipse 8"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Deuteronômio 11",
+          "Salmos 95-96"
+        ],
+        "personalReading": [
+          "Isaías 39",
+          "Apocalipse 9"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Deuteronômio 12",
+          "Salmos 97-98"
+        ],
+        "personalReading": [
+          "Isaías 40",
+          "Apocalipse 10"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Deuteronômio 13-14",
+          "Salmos 99-101"
+        ],
+        "personalReading": [
+          "Isaías 41",
+          "Apocalipse 11"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Deuteronômio 15",
+          "Salmos 102"
+        ],
+        "personalReading": [
+          "Isaías 42",
+          "Apocalipse 12"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "Deuteronômio 16",
+          "Salmos 103"
+        ],
+        "personalReading": [
+          "Isaías 43",
+          "Apocalipse 13"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "Deuteronômio 17",
+          "Salmos 104"
+        ],
+        "personalReading": [
+          "Isaías 44",
+          "Apocalipse 14"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "Deuteronômio 18",
+          "Salmos 105"
+        ],
+        "personalReading": [
+          "Isaías 45",
+          "Apocalipse 15"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "Deuteronômio 19",
+          "Salmos 106"
+        ],
+        "personalReading": [
+          "Isaías 46",
+          "Apocalipse 16"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "Deuteronômio 20",
+          "Salmos 107"
+        ],
+        "personalReading": [
+          "Isaías 47",
+          "Apocalipse 17"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "Deuteronômio 21",
+          "Salmos 108-109"
+        ],
+        "personalReading": [
+          "Isaías 48",
+          "Apocalipse 18"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "Deuteronômio 22",
+          "Salmos 110-111"
+        ],
+        "personalReading": [
+          "Isaías 49",
+          "Apocalipse 19"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "Deuteronômio 23",
+          "Salmos 112-113"
+        ],
+        "personalReading": [
+          "Isaías 50",
+          "Apocalipse 20"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "Deuteronômio 24",
+          "Salmos 114-115"
+        ],
+        "personalReading": [
+          "Isaías 51",
+          "Apocalipse 21"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "Deuteronômio 25",
+          "Salmos 116"
+        ],
+        "personalReading": [
+          "Isaías 52",
+          "Apocalipse 22"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "Deuteronômio 26",
+          "Salmos 117-118"
+        ],
+        "personalReading": [
+          "Isaías 53",
+          "Mateus 1"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "Deuteronômio 27.1-28.19",
+          "Salmos 119.1-24"
+        ],
+        "personalReading": [
+          "Isaías 54",
+          "Mateus 2"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "Deuteronômio 28.20-68",
+          "Salmos 119.25-48"
+        ],
+        "personalReading": [
+          "Isaías 55",
+          "Mateus 3"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "Deuteronômio 29",
+          "Salmos 119.49-72"
+        ],
+        "personalReading": [
+          "Isaías 56",
+          "Mateus 4"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "Deuteronômio 30",
+          "Salmos 119.73-96"
+        ],
+        "personalReading": [
+          "Isaías 57",
+          "Mateus 5"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "Deuteronômio 31",
+          "Salmos 119.97-120"
+        ],
+        "personalReading": [
+          "Isaías 58",
+          "Mateus 6"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "Deuteronômio 32",
+          "Salmos 119.121-144"
+        ],
+        "personalReading": [
+          "Isaías 59",
+          "Mateus 7"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "Deuteronômio 33-34",
+          "Salmos 119.145-176"
+        ],
+        "personalReading": [
+          "Isaías 60",
+          "Mateus 8"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "Josué 1",
+          "Salmos 120-122"
+        ],
+        "personalReading": [
+          "Isaías 61",
+          "Mateus 9"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "Josué 2",
+          "Salmos 123-125"
+        ],
+        "personalReading": [
+          "Isaías 62",
+          "Mateus 10"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "month": "Julho",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Josué 3",
+          "Salmos 126-128"
+        ],
+        "personalReading": [
+          "Isaías 63",
+          "Mateus 11"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Josué 4",
+          "Salmos 129-131"
+        ],
+        "personalReading": [
+          "Isaías 64",
+          "Mateus 12"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Josué 5",
+          "Salmos 132-134"
+        ],
+        "personalReading": [
+          "Isaías 65",
+          "Mateus 13"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Josué 6",
+          "Salmos 135-136"
+        ],
+        "personalReading": [
+          "Isaías 66",
+          "Mateus 14"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Josué 7",
+          "Salmos 137-138"
+        ],
+        "personalReading": [
+          "Jeremias 1",
+          "Mateus 15"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Josué 8",
+          "Salmos 139"
+        ],
+        "personalReading": [
+          "Jeremias 2",
+          "Mateus 16"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Josué 9",
+          "Salmos 140-141"
+        ],
+        "personalReading": [
+          "Jeremias 3",
+          "Mateus 17"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Josué 10",
+          "Salmos 142-143"
+        ],
+        "personalReading": [
+          "Jeremias 4",
+          "Mateus 18"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Josué 11",
+          "Salmos 144"
+        ],
+        "personalReading": [
+          "Jeremias 5",
+          "Mateus 19"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Josué 12-13",
+          "Salmos 145"
+        ],
+        "personalReading": [
+          "Jeremias 6",
+          "Mateus 20"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "Josué 14-15",
+          "Salmos 146-147"
+        ],
+        "personalReading": [
+          "Jeremias 7",
+          "Mateus 21"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "Josué 16-17",
+          "Salmos 148"
+        ],
+        "personalReading": [
+          "Jeremias 8",
+          "Mateus 22"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "Josué 18-19",
+          "Salmos 149-150"
+        ],
+        "personalReading": [
+          "Jeremias 9",
+          "Mateus 23"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "Josué 20-21",
+          "Atos 1"
+        ],
+        "personalReading": [
+          "Jeremias 10",
+          "Mateus 24"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "Josué 22",
+          "Atos 2"
+        ],
+        "personalReading": [
+          "Jeremias 11",
+          "Mateus 25"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "Josué 23",
+          "Atos 3"
+        ],
+        "personalReading": [
+          "Jeremias 12",
+          "Mateus 26"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "Josué 24",
+          "Atos 4"
+        ],
+        "personalReading": [
+          "Jeremias 13",
+          "Mateus 27"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "Juízes 1",
+          "Atos 5"
+        ],
+        "personalReading": [
+          "Jeremias 14",
+          "Mateus 28"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "Juízes 2",
+          "Atos 6"
+        ],
+        "personalReading": [
+          "Jeremias 15",
+          "Marcos 1"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "Juízes 3",
+          "Atos 7"
+        ],
+        "personalReading": [
+          "Jeremias 16",
+          "Marcos 2"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "Juízes 4",
+          "Atos 8"
+        ],
+        "personalReading": [
+          "Jeremias 17",
+          "Marcos 3"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "Juízes 5",
+          "Atos 9"
+        ],
+        "personalReading": [
+          "Jeremias 18",
+          "Marcos 4"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "Juízes 6",
+          "Atos 10"
+        ],
+        "personalReading": [
+          "Jeremias 19",
+          "Marcos 5"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "Juízes 7",
+          "Atos 11"
+        ],
+        "personalReading": [
+          "Jeremias 20",
+          "Marcos 6"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "Juízes 8",
+          "Atos 12"
+        ],
+        "personalReading": [
+          "Jeremias 21",
+          "Marcos 7"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "Juízes 9",
+          "Atos 13"
+        ],
+        "personalReading": [
+          "Jeremias 22",
+          "Marcos 8"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "Juízes 10.1-11.11",
+          "Atos 14"
+        ],
+        "personalReading": [
+          "Jeremias 23",
+          "Marcos 9"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "Juízes 11.12-40",
+          "Atos 15"
+        ],
+        "personalReading": [
+          "Jeremias 24",
+          "Marcos 10"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "Juízes 12",
+          "Atos 16"
+        ],
+        "personalReading": [
+          "Jeremias 25",
+          "Marcos 11"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "Juízes 13",
+          "Atos 17"
+        ],
+        "personalReading": [
+          "Jeremias 26",
+          "Marcos 12"
+        ]
+      },
+      {
+        "day": 31,
+        "familyReading": [
+          "Juízes 14",
+          "Atos 18"
+        ],
+        "personalReading": [
+          "Jeremias 27",
+          "Marcos 13"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "month": "Agosto",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "Juízes 15",
+          "Atos 19"
+        ],
+        "personalReading": [
+          "Jeremias 28",
+          "Marcos 14"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "Juízes 16",
+          "Atos 20"
+        ],
+        "personalReading": [
+          "Jeremias 29",
+          "Marcos 15"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "Juízes 17",
+          "Atos 21"
+        ],
+        "personalReading": [
+          "Jeremias 30-31",
+          "Marcos 16"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "Juízes 18",
+          "Atos 22"
+        ],
+        "personalReading": [
+          "Jeremias 32",
+          "Salmos 1-2"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "Juízes 19",
+          "Atos 23"
+        ],
+        "personalReading": [
+          "Jeremias 33",
+          "Salmos 3-4"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "Juízes 20",
+          "Atos 24"
+        ],
+        "personalReading": [
+          "Jeremias 34",
+          "Salmos 5-6"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "Juízes 21",
+          "Atos 25"
+        ],
+        "personalReading": [
+          "Jeremias 35",
+          "Salmos 7-8"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "Rute 1",
+          "Atos 26"
+        ],
+        "personalReading": [
+          "Jeremias 36",
+          "Salmos 9"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "Rute 2",
+          "Atos 27"
+        ],
+        "personalReading": [
+          "Jeremias 37",
+          "Salmos 10"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "Rute 3-4",
+          "Atos 28"
+        ],
+        "personalReading": [
+          "Jeremias 38",
+          "Salmos 11-12"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "1Samuel 1",
+          "Romanos 1"
+        ],
+        "personalReading": [
+          "Jeremias 39",
+          "Salmos 12-13"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "1Samuel 2",
+          "Romanos 2"
+        ],
+        "personalReading": [
+          "Jeremias 40",
+          "Salmos 15-16"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "1Samuel 3",
+          "Romanos 3"
+        ],
+        "personalReading": [
+          "Jeremias 41",
+          "Salmos 17"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "1Samuel 4",
+          "Romanos 4"
+        ],
+        "personalReading": [
+          "Jeremias 42",
+          "Salmos 18"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "1Samuel 5-6",
+          "Romanos 5"
+        ],
+        "personalReading": [
+          "Jeremias 43",
+          "Salmos 19"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "1Samuel 7-8",
+          "Romanos 6"
+        ],
+        "personalReading": [
+          "Jeremias 44",
+          "Salmos 20-21"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "1Samuel 9",
+          "Romanos 7"
+        ],
+        "personalReading": [
+          "Jeremias 45-46",
+          "Salmos 22"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "1Samuel 10",
+          "Romanos 8"
+        ],
+        "personalReading": [
+          "Jeremias 47",
+          "Salmos 23-24"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "1Samuel 11",
+          "Romanos 9"
+        ],
+        "personalReading": [
+          "Jeremias 48",
+          "Salmos 25"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "1Samuel 12",
+          "Romanos 10"
+        ],
+        "personalReading": [
+          "Jeremias 49",
+          "Salmos 26-27"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "1Samuel 13",
+          "Romanos 11"
+        ],
+        "personalReading": [
+          "Jeremias 50",
+          "Salmos 28-29"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "1Samuel 14",
+          "Romanos 12"
+        ],
+        "personalReading": [
+          "Jeremias 51",
+          "Salmos 30"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "1Samuel 15",
+          "Romanos 13"
+        ],
+        "personalReading": [
+          "Jeremias 52",
+          "Salmos 31"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "1Samuel 16",
+          "Romanos 14"
+        ],
+        "personalReading": [
+          "Lamentações 1",
+          "Salmos 32"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "1Samuel 17",
+          "Romanos 15"
+        ],
+        "personalReading": [
+          "Lamentações 2",
+          "Salmos 33"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "1Samuel 18",
+          "Romanos 16"
+        ],
+        "personalReading": [
+          "Lamentações 3",
+          "Salmos 34"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "1Samuel 19",
+          "1Coríntios 1"
+        ],
+        "personalReading": [
+          "Lamentações 4",
+          "Salmos 35"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "1Samuel 20",
+          "1Coríntios 2"
+        ],
+        "personalReading": [
+          "Lamentações 5",
+          "Salmos 36"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "1Samuel 21-22",
+          "1Coríntios 3"
+        ],
+        "personalReading": [
+          "Ezequiel 1",
+          "Salmos 37"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "1Samuel 23",
+          "1Coríntios 4"
+        ],
+        "personalReading": [
+          "Ezequiel 2",
+          "Salmos 38"
+        ]
+      },
+      {
+        "day": 31,
+        "familyReading": [
+          "1Samuel 24",
+          "1Coríntios 5"
+        ],
+        "personalReading": [
+          "Ezequiel 3",
+          "Salmos 39"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "month": "Setembro",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "1Samuel 25",
+          "1Coríntios 6"
+        ],
+        "personalReading": [
+          "Ezequiel 4",
+          "Salmos 40-41"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "1Samuel 26",
+          "1Coríntios 7"
+        ],
+        "personalReading": [
+          "Ezequiel 5",
+          "Salmos 42-43"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "1Samuel 27",
+          "1Coríntios 8"
+        ],
+        "personalReading": [
+          "Ezequiel 6",
+          "Salmos 44"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "1Samuel 28",
+          "1Coríntios 9"
+        ],
+        "personalReading": [
+          "Ezequiel 7",
+          "Salmos 45"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "1Samuel 29-30",
+          "1Coríntios 10"
+        ],
+        "personalReading": [
+          "Ezequiel 8",
+          "Salmos 46-47"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "1Samuel 31",
+          "1Coríntios 11"
+        ],
+        "personalReading": [
+          "Ezequiel 9",
+          "Salmos 48"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "2Samuel 1",
+          "1Coríntios 12"
+        ],
+        "personalReading": [
+          "Ezequiel 10",
+          "Salmos 49"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "2Samuel 2",
+          "1Coríntios 13"
+        ],
+        "personalReading": [
+          "Ezequiel 11",
+          "Salmos 50"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "2Samuel 3",
+          "1Coríntios 14"
+        ],
+        "personalReading": [
+          "Ezequiel 12",
+          "Salmos 51"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "2Samuel 4-5",
+          "1Coríntios 15"
+        ],
+        "personalReading": [
+          "Ezequiel 13",
+          "Salmos 52-54"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "2Samuel 6",
+          "1Coríntios 16"
+        ],
+        "personalReading": [
+          "Ezequiel 14",
+          "Salmos 55"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "2Samuel 7",
+          "2Coríntios 1"
+        ],
+        "personalReading": [
+          "Ezequiel 15",
+          "Salmos 56-57"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "2Samuel 8-9",
+          "2Coríntios 2"
+        ],
+        "personalReading": [
+          "Ezequiel 16",
+          "Salmos 58-59"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "2Samuel 10",
+          "2Coríntios 3"
+        ],
+        "personalReading": [
+          "Ezequiel 17",
+          "Salmos 60-61"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "2Samuel 11",
+          "2Coríntios 4"
+        ],
+        "personalReading": [
+          "Ezequiel 18",
+          "Salmos 62-63"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "2Samuel 12",
+          "2Coríntios 5"
+        ],
+        "personalReading": [
+          "Ezequiel 19",
+          "Salmos 64-65"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "2Samuel 13",
+          "2Coríntios 6"
+        ],
+        "personalReading": [
+          "Ezequiel 20",
+          "Salmos 66-67"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "2Samuel 14",
+          "2Coríntios 7"
+        ],
+        "personalReading": [
+          "Ezequiel 21",
+          "Salmos 68"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "2Samuel 15",
+          "2Coríntios 8"
+        ],
+        "personalReading": [
+          "Ezequiel 22",
+          "Salmos 69"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "2Samuel 16",
+          "2Coríntios 9"
+        ],
+        "personalReading": [
+          "Ezequiel 23",
+          "Salmos 70-71"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "2Samuel 17",
+          "2Coríntios 10"
+        ],
+        "personalReading": [
+          "Ezequiel 24",
+          "Salmos 72"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "2Samuel 18",
+          "2Coríntios 11"
+        ],
+        "personalReading": [
+          "Ezequiel 25",
+          "Salmos 73"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "2Samuel 19",
+          "2Coríntios 12"
+        ],
+        "personalReading": [
+          "Ezequiel 26",
+          "Salmos 74"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "2Samuel 20",
+          "2Coríntios 13"
+        ],
+        "personalReading": [
+          "Ezequiel 27",
+          "Salmos 75-76"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "2Samuel 21",
+          "Gálatas 1"
+        ],
+        "personalReading": [
+          "Ezequiel 28",
+          "Salmos 77"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "2Samuel 22",
+          "Gálatas 2"
+        ],
+        "personalReading": [
+          "Ezequiel 29",
+          "Salmos 78.1-37"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "2Samuel 23",
+          "Gálatas 3"
+        ],
+        "personalReading": [
+          "Ezequiel 30",
+          "Salmos 78.38-72"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "2Samuel 24",
+          "Gálatas 4"
+        ],
+        "personalReading": [
+          "Ezequiel 31",
+          "Salmos 79"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "1Reis 1",
+          "Gálatas 5"
+        ],
+        "personalReading": [
+          "Ezequiel 32",
+          "Salmos 80"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "1Reis 2",
+          "Gálatas 6"
+        ],
+        "personalReading": [
+          "Ezequiel 33",
+          "Salmos 81-82"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "month": "Outubro",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "1Reis 3",
+          "Efésios 1"
+        ],
+        "personalReading": [
+          "Ezequiel 34",
+          "Salmos 83-84"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "1Reis 4-5",
+          "Efésios 2"
+        ],
+        "personalReading": [
+          "Ezequiel 35",
+          "Salmos 85"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "1Reis 6",
+          "Efésios 3"
+        ],
+        "personalReading": [
+          "Ezequiel 36",
+          "Salmos 86"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "1Reis 7",
+          "Efésios 4"
+        ],
+        "personalReading": [
+          "Ezequiel 37",
+          "Salmos 87-88"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "1Reis 8",
+          "Efésios 5"
+        ],
+        "personalReading": [
+          "Ezequiel 38",
+          "Salmos 89"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "1Reis 9",
+          "Efésios 6"
+        ],
+        "personalReading": [
+          "Ezequiel 39",
+          "Salmos 90"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "1Reis 10",
+          "Filipenses 1"
+        ],
+        "personalReading": [
+          "Ezequiel 40",
+          "Salmos 91"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "1Reis 11",
+          "Filipenses 2"
+        ],
+        "personalReading": [
+          "Ezequiel 41",
+          "Salmos 92-93"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "1Reis 12",
+          "Filipenses 3"
+        ],
+        "personalReading": [
+          "Ezequiel 42",
+          "Salmos 94"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "1Reis 13",
+          "Filipenses 4"
+        ],
+        "personalReading": [
+          "Ezequiel 43",
+          "Salmos 95-96"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "1Reis 14",
+          "Colossenses 1"
+        ],
+        "personalReading": [
+          "Ezequiel 44",
+          "Salmos 97-98"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "1Reis 15",
+          "Colossenses 2"
+        ],
+        "personalReading": [
+          "Ezequiel 45",
+          "Salmos 99-101"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "1Reis 16",
+          "Colossenses 3"
+        ],
+        "personalReading": [
+          "Ezequiel 46",
+          "Salmos 102"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "1Reis 17",
+          "Colossenses 4"
+        ],
+        "personalReading": [
+          "Ezequiel 47",
+          "Salmos 103"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "1Reis 18",
+          "1Tessalonicenses 1"
+        ],
+        "personalReading": [
+          "Ezequiel 48",
+          "Salmos 104"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "1Reis 19",
+          "1Tessalonicenses 2"
+        ],
+        "personalReading": [
+          "Daniel 1",
+          "Salmos 105"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "1Reis 20",
+          "1Tessalonicenses 3"
+        ],
+        "personalReading": [
+          "Daniel 2",
+          "Salmos 106"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "1Reis 21",
+          "1Tessalonicenses 4"
+        ],
+        "personalReading": [
+          "Daniel 3",
+          "Salmos 107"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "1Reis 22",
+          "1Tessalonicenses 5"
+        ],
+        "personalReading": [
+          "Daniel 4",
+          "Salmos 108-109"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "2Reis 1",
+          "2Tessalonicenses 1"
+        ],
+        "personalReading": [
+          "Daniel 5",
+          "Salmos 110-111"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "2Reis 2",
+          "2Tessalonicenses 2"
+        ],
+        "personalReading": [
+          "Daniel 6",
+          "Salmos 112-113"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "2Reis 3",
+          "2Tessalonicenses 3"
+        ],
+        "personalReading": [
+          "Daniel 7",
+          "Salmos 114-115"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "2Reis 4",
+          "1Timóteo 1"
+        ],
+        "personalReading": [
+          "Daniel 8",
+          "Salmos 116"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "2Reis 5",
+          "1Timóteo 2"
+        ],
+        "personalReading": [
+          "Daniel 9",
+          "Salmos 117-118"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "2Reis 6",
+          "1Timóteo 3"
+        ],
+        "personalReading": [
+          "Daniel 10",
+          "Salmos 119.1-24"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "2Reis 7",
+          "1Timóteo 4"
+        ],
+        "personalReading": [
+          "Daniel 11",
+          "Salmos 119.25-48"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "2Reis 8",
+          "1Timóteo 5"
+        ],
+        "personalReading": [
+          "Daniel 12",
+          "Salmos 119.49-72"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "2Reis 9",
+          "1Timóteo 6"
+        ],
+        "personalReading": [
+          "Oseias 1",
+          "Salmos 119.73-96"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "2Reis 10",
+          "2Timóteo 1"
+        ],
+        "personalReading": [
+          "Oseias 2",
+          "Salmos 119.97-120"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "2Reis 11-12",
+          "2Timóteo 2"
+        ],
+        "personalReading": [
+          "Oseias 3-4",
+          "Salmos 119.121-144"
+        ]
+      },
+      {
+        "day": 31,
+        "familyReading": [
+          "2Reis 13",
+          "2Timóteo 3"
+        ],
+        "personalReading": [
+          "Oseias 5-6",
+          "Salmos 119.145-176"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "month": "Novembro",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "2Reis 14",
+          "2Timóteo 4"
+        ],
+        "personalReading": [
+          "Oseias 7",
+          "Salmos 120-122"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "2Reis 15",
+          "Tito 1"
+        ],
+        "personalReading": [
+          "Oseias 8",
+          "Salmos 123-125"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "2Reis 16",
+          "Tito 2"
+        ],
+        "personalReading": [
+          "Oseias 9",
+          "Salmos 126-128"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "2Reis 17",
+          "Tito 3"
+        ],
+        "personalReading": [
+          "Oseias 10",
+          "Salmos 129-131"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "2Reis 18",
+          "Filemom"
+        ],
+        "personalReading": [
+          "Oseias 11",
+          "Salmos 132-134"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "2Reis 19",
+          "Hebreus 1"
+        ],
+        "personalReading": [
+          "Oseias 12",
+          "Salmos 135-136"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "2Reis 20",
+          "Hebreus 2"
+        ],
+        "personalReading": [
+          "Oseias 13",
+          "Salmos 137-138"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "2Reis 21",
+          "Hebreus 3"
+        ],
+        "personalReading": [
+          "Oseias 14",
+          "Salmos 139"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "2Reis 22",
+          "Hebreus 4"
+        ],
+        "personalReading": [
+          "Joel 1",
+          "Salmos 140-141"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "2Reis 23",
+          "Hebreus 5"
+        ],
+        "personalReading": [
+          "Joel 2",
+          "Salmos 142"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "2Reis 24",
+          "Hebreus 6"
+        ],
+        "personalReading": [
+          "Joel 3",
+          "Salmos 143"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "2Reis 25",
+          "Hebreus 7"
+        ],
+        "personalReading": [
+          "Amós 1",
+          "Salmos 144"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "1Crônicas 1-2",
+          "Hebreus 8"
+        ],
+        "personalReading": [
+          "Amós 2",
+          "Salmos 145"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "1Crônicas 3-4",
+          "Hebreus 9"
+        ],
+        "personalReading": [
+          "Amós 3",
+          "Salmos 146-147"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "1Crônicas 5-6",
+          "Hebreus 10"
+        ],
+        "personalReading": [
+          "Amós 4",
+          "Salmos 148-150"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "1Crônicas 7-8",
+          "Hebreus 11"
+        ],
+        "personalReading": [
+          "Amós 5",
+          "Lucas 1.1-38"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "1Crônicas 9-10",
+          "Hebreus 12"
+        ],
+        "personalReading": [
+          "Amós 6",
+          "Lucas 1.39-80"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "1Crônicas 11-12",
+          "Hebreus 13"
+        ],
+        "personalReading": [
+          "Amós 7",
+          "Lucas 2"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "1Crônicas 13-14",
+          "Tiago 1"
+        ],
+        "personalReading": [
+          "Amós 8",
+          "Lucas 3"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "1Crônicas 15",
+          "Tiago 2"
+        ],
+        "personalReading": [
+          "Amós 9",
+          "Lucas 4"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "1Crônicas 16",
+          "Tiago 3"
+        ],
+        "personalReading": [
+          "Obadias",
+          "Lucas 5"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "1Crônicas 17",
+          "Tiago 4"
+        ],
+        "personalReading": [
+          "Jonas 1",
+          "Lucas 6"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "1Crônicas 18",
+          "Tiago 5"
+        ],
+        "personalReading": [
+          "Jonas 2",
+          "Lucas 7"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "1Crônicas 19-20",
+          "1Pedro 1"
+        ],
+        "personalReading": [
+          "Jonas 3",
+          "Lucas 8"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "1Crônicas 21",
+          "1Pedro 2"
+        ],
+        "personalReading": [
+          "Jonas 4",
+          "Lucas 9"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "1Crônicas 22",
+          "1Pedro 3"
+        ],
+        "personalReading": [
+          "Miquéias 1",
+          "Lucas 10"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "1Crônicas 23",
+          "1Pedro 4"
+        ],
+        "personalReading": [
+          "Miquéias 2",
+          "Lucas 11"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "1Crônicas 24-25",
+          "1Pedro 5"
+        ],
+        "personalReading": [
+          "Miquéias 3",
+          "Lucas 12"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "1Crônicas 26-27",
+          "2Pedro 1"
+        ],
+        "personalReading": [
+          "Miquéias 4",
+          "Lucas 13"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "1Crônicas 28",
+          "2Pedro 2"
+        ],
+        "personalReading": [
+          "Miquéias 5",
+          "Lucas 14"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "month": "Dezembro",
+    "days": [
+      {
+        "day": 1,
+        "familyReading": [
+          "1Crônicas 29",
+          "2Pedro 3"
+        ],
+        "personalReading": [
+          "Miquéias 6",
+          "Lucas 15"
+        ]
+      },
+      {
+        "day": 2,
+        "familyReading": [
+          "2Crônicas 1",
+          "1João 1"
+        ],
+        "personalReading": [
+          "Miquéias 7",
+          "Lucas 16"
+        ]
+      },
+      {
+        "day": 3,
+        "familyReading": [
+          "2Crônicas 2",
+          "1João 2"
+        ],
+        "personalReading": [
+          "Naum 1",
+          "Lucas 17"
+        ]
+      },
+      {
+        "day": 4,
+        "familyReading": [
+          "2Crônicas 3-4",
+          "1João 3"
+        ],
+        "personalReading": [
+          "Naum 2",
+          "Lucas 18"
+        ]
+      },
+      {
+        "day": 5,
+        "familyReading": [
+          "2Crônicas 5.1-6.11",
+          "1João 4"
+        ],
+        "personalReading": [
+          "Naum 3",
+          "Lucas 19"
+        ]
+      },
+      {
+        "day": 6,
+        "familyReading": [
+          "2Crônicas 6.12-42",
+          "1João 5"
+        ],
+        "personalReading": [
+          "Habacuque 1",
+          "Lucas 20"
+        ]
+      },
+      {
+        "day": 7,
+        "familyReading": [
+          "2Crônicas 7",
+          "2João"
+        ],
+        "personalReading": [
+          "Habacuque 2",
+          "Lucas 21"
+        ]
+      },
+      {
+        "day": 8,
+        "familyReading": [
+          "2Crônicas 8",
+          "3João"
+        ],
+        "personalReading": [
+          "Habacuque 3",
+          "Lucas 22"
+        ]
+      },
+      {
+        "day": 9,
+        "familyReading": [
+          "2Crônicas 9",
+          "Judas"
+        ],
+        "personalReading": [
+          "Sofonias 1",
+          "Lucas 23"
+        ]
+      },
+      {
+        "day": 10,
+        "familyReading": [
+          "2Crônicas 10",
+          "Apocalipse 1"
+        ],
+        "personalReading": [
+          "Sofonias 2",
+          "Lucas 24"
+        ]
+      },
+      {
+        "day": 11,
+        "familyReading": [
+          "2Crônicas 11-12",
+          "Apocalipse 2"
+        ],
+        "personalReading": [
+          "Sofonias 4",
+          "João 1"
+        ]
+      },
+      {
+        "day": 12,
+        "familyReading": [
+          "2Crônicas 13",
+          "Apocalipse 3"
+        ],
+        "personalReading": [
+          "Ageu 1",
+          "João 2"
+        ]
+      },
+      {
+        "day": 13,
+        "familyReading": [
+          "2Crônicas 14-15",
+          "Apocalipse 4"
+        ],
+        "personalReading": [
+          "Ageu 2",
+          "João 3"
+        ]
+      },
+      {
+        "day": 14,
+        "familyReading": [
+          "2Crônicas 16",
+          "Apocalipse 5"
+        ],
+        "personalReading": [
+          "Zacarias 1",
+          "João 4"
+        ]
+      },
+      {
+        "day": 15,
+        "familyReading": [
+          "2Crônicas 17",
+          "Apocalipse 6"
+        ],
+        "personalReading": [
+          "Zacarias 2",
+          "João 5"
+        ]
+      },
+      {
+        "day": 16,
+        "familyReading": [
+          "2Crônicas 18",
+          "Apocalipse 7"
+        ],
+        "personalReading": [
+          "Zacarias 3",
+          "João 6"
+        ]
+      },
+      {
+        "day": 17,
+        "familyReading": [
+          "2Crônicas 19-20",
+          "Apocalipse 8"
+        ],
+        "personalReading": [
+          "Zacarias 4",
+          "João 7"
+        ]
+      },
+      {
+        "day": 18,
+        "familyReading": [
+          "2Crônicas 21",
+          "Apocalipse 9"
+        ],
+        "personalReading": [
+          "Zacarias 5",
+          "João 8"
+        ]
+      },
+      {
+        "day": 19,
+        "familyReading": [
+          "2Crônicas 22-23",
+          "Apocalipse 10"
+        ],
+        "personalReading": [
+          "Zacarias 6",
+          "João 9"
+        ]
+      },
+      {
+        "day": 20,
+        "familyReading": [
+          "2Crônicas 24",
+          "Apocalipse 11"
+        ],
+        "personalReading": [
+          "Zacarias 7",
+          "João 10"
+        ]
+      },
+      {
+        "day": 21,
+        "familyReading": [
+          "2Crônicas 25",
+          "Apocalipse 12"
+        ],
+        "personalReading": [
+          "Zacarias 8",
+          "João 11"
+        ]
+      },
+      {
+        "day": 22,
+        "familyReading": [
+          "2Crônicas 26",
+          "Apocalipse 13"
+        ],
+        "personalReading": [
+          "Zacarias 9",
+          "João 12"
+        ]
+      },
+      {
+        "day": 23,
+        "familyReading": [
+          "2Crônicas 27-28",
+          "Apocalipse 14"
+        ],
+        "personalReading": [
+          "Zacarias 10",
+          "João 13"
+        ]
+      },
+      {
+        "day": 24,
+        "familyReading": [
+          "2Crônicas 29",
+          "Apocalipse 15"
+        ],
+        "personalReading": [
+          "Zacarias 11",
+          "João 14"
+        ]
+      },
+      {
+        "day": 25,
+        "familyReading": [
+          "2Crônicas 30",
+          "Apocalipse 16"
+        ],
+        "personalReading": [
+          "Zacarias 12.1-13.1",
+          "João 15"
+        ]
+      },
+      {
+        "day": 26,
+        "familyReading": [
+          "2Crônicas 31",
+          "Apocalipse 17"
+        ],
+        "personalReading": [
+          "Zacarias 13.2-9",
+          "João 16"
+        ]
+      },
+      {
+        "day": 27,
+        "familyReading": [
+          "2Crônicas 32",
+          "Apocalipse 18"
+        ],
+        "personalReading": [
+          "Zacarias 14",
+          "João 17"
+        ]
+      },
+      {
+        "day": 28,
+        "familyReading": [
+          "2Crônicas 33",
+          "Apocalipse 19"
+        ],
+        "personalReading": [
+          "Malaquias 1",
+          "João 18"
+        ]
+      },
+      {
+        "day": 29,
+        "familyReading": [
+          "2Crônicas 34",
+          "Apocalipse 20"
+        ],
+        "personalReading": [
+          "Malaquias 2",
+          "João 19"
+        ]
+      },
+      {
+        "day": 30,
+        "familyReading": [
+          "2Crônicas 35",
+          "Apocalipse 21"
+        ],
+        "personalReading": [
+          "Malaquias 3",
+          "João 20"
+        ]
+      },
+      {
+        "day": 31,
+        "familyReading": [
+          "2Crônicas 36",
+          "Apocalipse 22"
+        ],
+        "personalReading": [
+          "Malaquias 4",
+          "João 21"
+        ]
+      }
+    ]
+  }
+]

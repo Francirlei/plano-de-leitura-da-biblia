@@ -1,0 +1,330 @@
+:root {
+  --main-color: #19478C;
+  --button-active: #276ED9;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+header {
+  color: var(--main-color);
+  margin: 20px auto;
+  padding: 8px;
+  text-align: center;
+  width: 280px;
+}
+
+header h1 {
+  font-size: .875rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+header p {
+  font-size: .75rem;
+}
+
+header p:nth-of-type(1) {
+  font-weight: 600;
+}
+
+header p:nth-of-type(2) {
+  margin: 20px auto;
+  width: 240px;
+}
+
+nav {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  position: relative;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  padding: 10px;
+  flex: 1;
+}
+
+.months {
+  display: grid;
+  grid-template-columns: repeat(12, 48px);
+  grid-auto-rows: 24px;
+  overflow-x: scroll;
+  gap: 34px;
+  scrollbar-width: none;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.months::-webkit-scrollbar {
+  display: none;
+}
+
+.arrow-icon {
+  position: absolute;
+  top: 0;
+}
+
+.arrow-icon:first-of-type {
+  left: -20px;
+}
+
+.arrow-icon:last-of-type {
+  right: -20px;
+}
+
+.month {
+  align-items: center;
+  background-color: #F2F7FF;
+  border-radius: 4px;
+  color: var(--main-color);
+  display: flex;
+  font-weight: 600;
+  font-size: .875rem;
+  justify-content: center;
+  text-transform: uppercase;
+  transition: background-color .4s, outline .4s;
+  scroll-snap-align: center;
+}
+
+.month:hover,
+.month:active,
+.month.active,
+.month[data-month-active="true"] {
+  background-color: var(--button-active);
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.month:focus,
+.day:focus {
+  outline: 1px solid #66A3FF;
+}
+
+.days {
+  background-color: #FAFCFF;
+  border-radius: 8px;
+  display: grid;
+  grid-template-columns: repeat(7, 32px);
+  grid-auto-rows: minmax(auto, 32px);
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  padding: 16px 8px;
+}
+
+.day {
+  padding: 8px;
+  text-align: center;
+  color: var(--main-color);
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  transition: background-color .4s;
+}
+
+.day:hover,
+.day:active,
+.day.active,
+.day[data-day-active="true"] {
+  background-color: var(--button-active);
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.devotional {
+  display: flex;
+  gap: 20px;
+}
+
+.devotional__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: var(--main-color);
+  border-radius: 8px;
+  padding: 12px;
+  flex: 1;
+}
+
+.devotional__content:nth-of-type(1) {
+  background-color: #EFEDFF;
+}
+
+.devotional__content:nth-of-type(2) {
+  background-color: #FFFBE0;
+}
+
+.devotional__type {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: .875rem;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.book {
+  font-size: .875rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.7;
+  margin-bottom: 8px;
+}
+
+footer {
+  background-color: #fafcff;
+  width: 100%;
+}
+
+.contacts {
+  display: flex;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  justify-content: center;
+  gap: 8px;
+}
+
+.contact {
+  width: 20px;
+  height: 20px;
+  background-color: var(--button-active);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact a {
+  display: inline-flex;
+}
+
+@media(min-width: 400px) {
+  body {
+    align-items: center;
+  }
+
+  .container {
+    width: 360px;
+    flex: initial;
+  }
+}
+
+@media(min-width: 768px) {
+  .container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+
+  nav {
+    width: initial;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .arrow-icon {
+    display: none;
+  }
+
+  .months {
+    display: grid;
+    grid-template-columns: repeat(3, 48px);
+    gap: 20px;
+    overflow-x: initial;
+  }
+
+  .days {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .devotional {
+    flex-direction: column;
+  }
+}
+
+@media(min-width: 1280px) {
+  .container {
+    justify-content: space-around;
+  }
+
+  header {
+    width: 580px;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+
+  header p:nth-of-type(1) {
+    font-size: 1.125rem;
+  }
+
+  header p:nth-of-type(2) {
+    font-size: 1.5rem;
+    margin: 50px auto;
+    width: 500px;
+  }
+
+  .months {
+    grid-template-columns: repeat(3, 80px);
+    grid-auto-rows: 46px;
+  }
+
+  .month {
+    font-size: 1.25rem;
+  }
+
+  .days {
+    padding: 48px;
+    gap: 20px;
+    grid-template-columns: repeat(7, 48px);
+    grid-auto-rows: minmax(auto, 48px);
+  }
+
+  .day {
+    font-size: 1.75rem;
+  }
+
+  .devotional__content {
+    padding: 28px;
+  }
+
+  .devotional__type {
+    font-size: 1.5rem;
+  }
+
+  .book {
+    font-size: 1.25rem;
+  }
+}
+
+@media(min-width: 1440px) {
+  .container {
+    width: 1440px;
+  }
+}
