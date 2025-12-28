@@ -18,16 +18,27 @@ arrowLeft.addEventListener("click", () => {
   containerMonths.scrollLeft -= containerMonths.offsetWidth / 2;
 });
 
+async function getCalendar() {
+  let url = location.href;
+
+  if (location.protocol === 'http:') {
+    url = location.origin + "/";
+  }
+
+  const response = await fetch(url + "data/calendar.json");
+  const result = await response.json();
+
+  return result;
+}
+
 async function getMonths() {
-  const response = await fetch("./../data/calendar.json");
-  const calendarData = await response.json();
+  const calendarData = await getCalendar();
 
   createElementMonth(calendarData);
 }
 
 async function getDays() {
-  const response = await fetch("./../data/calendar.json");
-  const devotionalData = await response.json();
+  const devotionalData = await getCalendar();
 
   let data = devotionalData.filter((data) => data.id === devotionalMonth)[0];
 
@@ -35,8 +46,7 @@ async function getDays() {
 }
 
 async function getBooks() {
-  const response = await fetch("./../data/calendar.json");
-  const devotionalData = await response.json();
+  const devotionalData = await getCalendar();
 
   let dataDays = devotionalData.filter((data) => data.id === devotionalMonth)[0];
   let dataBooks = dataDays.days.filter((data) => data.day == devotionalDay)[0];
