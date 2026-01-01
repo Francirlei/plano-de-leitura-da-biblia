@@ -1,6 +1,7 @@
 :root {
   --main-color: #19478C;
   --button-active: #276ED9;
+  --link-color: #2d57d2;
 }
 
 *,
@@ -23,10 +24,10 @@ body {
 
 header {
   color: var(--main-color);
-  margin: 20px auto;
+  margin: 16px auto;
   padding: 8px;
   text-align: center;
-  width: 280px;
+  /* width: 280px; */
 }
 
 header h1 {
@@ -46,7 +47,9 @@ header p:nth-of-type(1) {
 
 header p:nth-of-type(2) {
   margin: 20px auto;
-  width: 240px;
+  color: #141414;
+  line-height: 1.5;
+  max-width: 350px;
 }
 
 nav {
@@ -83,6 +86,7 @@ ul {
 .arrow-icon {
   position: absolute;
   top: 0;
+  cursor: pointer;
 }
 
 .arrow-icon:first-of-type {
@@ -129,8 +133,8 @@ ul {
   grid-auto-rows: minmax(auto, 32px);
   justify-content: center;
   gap: 16px;
-  margin-bottom: 60px;
-  margin-top: 60px;
+  margin-bottom: 50px;
+  margin-top: 50px;
   padding: 16px 8px;
 }
 
@@ -194,31 +198,146 @@ ul {
   margin-bottom: 8px;
 }
 
-footer {
-  background-color: #fafcff;
-  width: 100%;
+dialog {
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  border: none;
+  padding: 20px;
+  border-radius: 8px;
 }
 
-.contacts {
+.modal__content {
+  position: relative;
+}
+
+.modal__title,
+.modal__description {
+  color: #141414;
+}
+
+.modal__title {
+  font-size: 1rem;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.modal__description {
+  text-align: justify;
+  margin-bottom: 32px;
+  font-size: .875rem;
+  line-height: 1.4;
+}
+
+dialog blockquote {
+  font-style: italic; 
+  font-size: 0.9em; 
+  margin-top: 10px; 
+  color: #5a5a5a;
+}
+
+.modal__social {
   display: flex;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  justify-content: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.modal__social a {
+  text-decoration: none;
+}
+
+.social__links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   gap: 8px;
 }
 
-.contact {
-  width: 20px;
-  height: 20px;
-  background-color: var(--button-active);
-  border-radius: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.social__links svg{
+  transition: fill 0.3s ease;
 }
 
-.contact a {
+.social__name {
+  color: #4B5563;
+  font-weight: 600;
+  font-size: .75rem;
+  transition: fill 0.3s ease;
+}
+
+.social__links:visited {
+  color: #122254;
+}
+
+.social__links:hover svg
+{
+  fill: var(--link-color);
+}
+
+.social__links:hover .social__name
+{
+  color: var(--link-color);
+}
+
+
+.modal__close__icon,
+.modal__close__btn {
+  cursor: pointer;
+}
+
+.modal__close__icon {
+  position: absolute;
+  right: 0;
+  background: none;
+  border: none;
+}
+
+.modal__close__btn {
+  font-size: .875rem;
+  font-weight: 600;
+  border: none;
+  background-color: #FFF0F1;
+  color: #8E0B1A;
+  border-radius: 4px;
+  font-family: sans-serif;
+  width: 84px;
+  height: 28px;
   display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  background-color: #fafcff;
+  width: 100%;
+  padding: 8px 16px;
+}
+
+footer p {
+  font-size: .75rem;
+  text-align: justify;
+  line-height: 1.4;
+  color: #414141;
+}
+
+footer a {
+  color: var(--link-color);
+  font-weight: 600;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #122254;
+}
+
+footer a:active {
+  color: #2445A8;
+}
+
+footer a:visited {
+  color: #122254;
 }
 
 @media(min-width: 400px) {
