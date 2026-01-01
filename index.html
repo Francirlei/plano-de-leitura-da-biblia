@@ -67,7 +67,7 @@
     </div>
   </div>
 
-  <dialog id="modal-links">
+  <dialog data-modal="links">
     <div class="modal">
       <div class="modal__content">
         <button class="modal__close__icon" type="button" aria-label="Fechar modal">
@@ -139,11 +139,52 @@
     </div>
   </dialog>
 
+  <dialog data-modal="author">
+    <div class="modal">
+      <div class="modal__content">
+        <button class="modal__close__icon" type="button" aria-label="Fechar modal">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="rgba(103,103,103,1)"><path d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 10.5858L9.17157 7.75736L7.75736 9.17157L10.5858 12L7.75736 14.8284L9.17157 16.2426L12 13.4142L14.8284 16.2426L16.2426 14.8284L13.4142 12L16.2426 9.17157L14.8284 7.75736L12 10.5858Z"></path></svg>
+        </button>
+
+        <p class="modal__title">Sobre o Autor do Plano</p>
+
+        <div class="modal__description">
+          <p>Robert Murray M'Cheyne (1813–1843) foi um pastor, teólogo e 
+            evangelista escocês, notável por sua profunda piedade pessoal, 
+            zelo missionário e influência espiritual duradoura, 
+            apesar de sua vida breve.</p>
+
+          <p>Aqui está um resumo de sua vida e principais realizações:</p>
+
+          <p><strong>🌟 Resumo da Vida</strong></p>
+
+          <ul class="author__bio">
+            <li><strong>Nascimento e Educação:</strong> Nasceu em Edimburgo, Escócia, em 21 de maio de 1813, em uma família proeminente. Foi educado na Universidade de Edimburgo, onde demonstrou talento para idiomas, poesia, música e desenho.</li>
+            <li><strong>Conversão:</strong> Sua fé formal se transformou em fé pessoal e compromisso com o ministério após a morte de seu irmão mais velho, David, em 1831.</li>
+            <li><strong>Ministério Pastoral:</strong> Foi ordenado pastor e, em 1836, assumiu a Igreja de São Pedro em Dundee, Escócia, onde serviu até sua morte. Ele foi conhecido por sua poderosa pregação e seu foco na santidade pessoal.</li>
+            <li><strong>Busca por Santidade:</strong> M'Cheyne era famoso por sua intensa busca por santidade de vida e comunhão com Deus, dedicando longos períodos de tempo ao estudo da Bíblia e à oração. Sua vida era vista por muitos como uma correspondência sublime entre pregação e prática.</li>
+            <li><strong>Morte:</strong> Faleceu jovem, em 25 de março de 1843, aos 29 anos, sucumbindo a uma epidemia de tifo que assolava Dundee.</li>
+          </ul>
+
+          <p><strong>✨ Principais Realizações e Legado</strong></p>
+
+          <ol class="author__legacy">
+            <li><strong>Avivamento e Evangelismo:</strong> Durante sua ausência em 1839, um avivamento irrompeu em sua congregação e se espalhou por toda a Escócia, resultando na conversão de milhares. M'Cheyne pregava e orava fervorosamente por esse reavivamento.</li>
+            <li><strong>Plano de Leitura Bíblica:</strong> Criou o famoso Plano Anual de Leitura Bíblica (publicado em 1842), que organiza a leitura da Bíblia inteira em um ano e do Novo Testamento e Salmos duas vezes. Este plano é amplamente utilizado até hoje, sendo sua obra mais conhecida e em Domínio Público.</li>
+            <li><strong>Comissão à Terra Santa:</strong> Em 1839, M'Cheyne foi nomeado membro de uma comissão de pastores para visitar a Terra Santa (Palestina e regiões próximas) para investigar o estado dos judeus, uma viagem que o inspirou profundamente.</li>
+            <li><strong>Biografia Duradoura:</strong> Sua história de vida, especialmente sua busca incessante pela semelhança com Cristo, foi perpetuada pela biografia escrita por seu colega e amigo, o Rev. Andrew Bonar, intitulada Memoir and Remains of the Rev. Robert Murray M'Cheyne, que é considerada um clássico devocional.</li>
+          </ol>
+        </div>
+        <button type="button" class="modal__close__btn">Fechar</button>
+      </div>
+    </div>
+  </dialog>
+
   <footer>
     <p>
-      O plano de leitura bíblica de Robert Murray M’Cheyne (1813–1843) é de 
+      O plano de leitura bíblica de <a href="/" target="" id="links" data-modal-target="author">Robert Murray M’Cheyne</a> (1813–1843) é de 
       <strong>domínio público</strong>. O layout e o design desta aplicação web foram desenvolvidos por 
-      <a href="/" target="" id="links">Francirlei Silva</a> / 
+      <a href="/" target="" id="links" data-modal-target="links">Francirlei Silva</a> / 
       <a href="https://github.com/Francirlei/plano-de-leitura-da-biblia" target="_blank">Código-fonte no GitHub</a>.
     </p>
   </footer>
